@@ -1,8 +1,7 @@
 http://graphics.ewha.ac.kr/C2A/figs/models.jpg
 
-'''C2A: Controlled Conservative Advancement for Continuous Collision 
-Detection of Polygonal Models'''
-
+{{{+3'''C2A: Controlled Conservative Advancement for Continuous Collision 
+Detection of Polygonal Models'''}}} 
 
 
 Min Tang^1^,  Young J. Kim^1^ and Dinesh Manocha^2^
