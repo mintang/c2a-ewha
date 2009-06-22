@@ -14,4 +14,4 @@ Ewha Womans University, Seoul, Korea
 
 University of North Carolina at Chapel Hill
 
-[dm@cs.unc.edu] 
+[mailto:dm@cs.unc.edu dm@cs.unc.edu] 
