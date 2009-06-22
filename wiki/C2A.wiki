@@ -1,19 +1,17 @@
-http://graphics.ewha.ac.kr/C2A/figs/models.jpg
+[http://graphics.ewha.ac.kr/C2A/figs/models.jpg]
 
-{{{+3'''C2A: Controlled Conservative Advancement for Continuous Collision 
-Detection of Polygonal Models'''}}} 
+=C2A: Controlled Conservative Advancement for Continuous Collision Detection of Polygonal Models =
 
-
-Min Tang^1^,  Young J. Kim^1^ and Dinesh Manocha^2^
+*Min Tang^1^,  Young J. Kim^1^ and Dinesh Manocha^2^*
 
 ^1^Department of Computer Science & Engineering
 
 Ewha Womans University, Seoul, Korea
 
-tangmin@ewha.ac.kr  kimy@ewha.ac.kr
+[mailto:tangmin@ewha.ac.kr tangmin@ewha.ac.kr]  [mailto:kimy@ewha.ac.kr kimy@ewha.ac.kr]
 
 ^2^Department of Computer Science
 
 University of North Carolina at Chapel Hill
 
-dm@cs.unc.edu  
+[dm@cs.unc.edu] 
