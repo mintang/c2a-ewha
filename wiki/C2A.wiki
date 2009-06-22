@@ -19,8 +19,9 @@ University of North Carolina at Chapel Hill
 == Download ==
 
 1. Publication in ICRA 2009 in [http://graphics.ewha.ac.kr/C2A/C2A.pdf PDF]  (698KBytes), [http://graphics.ewha.ac.kr/C2A/bibtex_c2a.txt BibTex]
-To Appear in the IEEE International Conference on Robotics and Automation,  May 12 - 17, Japan, 2009.
+
+*To Appear in the IEEE International Conference on Robotics and Automation,  May 12 - 17, Japan, 2009.*
 
  
  
-2. Source Code in C++[http://graphics.ewha.ac.kr/C2A/new.gif]
+2. Source Code in [http://code.google.com/p/c2a-ewha C++][http://graphics.ewha.ac.kr/C2A/new.gif]
