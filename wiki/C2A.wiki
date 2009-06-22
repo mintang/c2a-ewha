@@ -43,7 +43,7 @@ In the figure below, the red, blue, and green objects denote the club model at i
 *Club vs Club*
 Download Video in WMV [http://graphics.ewha.ac.kr/C2A/figs/WM.gif] (0.7MBytes) 
 
-===2. ammer (1.7K) vs CAD Piece (2.6K)===
+===2. Hammer (1.7K) vs CAD Piece (2.6K)===
 A similar set up like the benchmark 1. 
 
 [http://graphics.ewha.ac.kr/C2A/figs/hammer.jpg]
