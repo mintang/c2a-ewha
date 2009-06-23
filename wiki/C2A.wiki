@@ -1,7 +1,7 @@
 [http://graphics.ewha.ac.kr/C2A/figs/models.jpg]
-
+<font size = 3>
 =C^2^A: Controlled Conservative Advancement for Continuous Collision Detection of Polygonal Models =
-
+<br><br>
 ==Min Tang^1^,  Young J. Kim^1^ and Dinesh Manocha^2^==
 
 ^1^Department of Computer Science & Engineering
@@ -15,7 +15,7 @@ Ewha Womans University, Seoul, Korea
 University of North Carolina at Chapel Hill
 
 [mailto:dm@cs.unc.edu dm@cs.unc.edu] 
-
+<br><br>
 == Download ==
 
 1. Publication in ICRA 2009 in [http://graphics.ewha.ac.kr/C2A/C2A.pdf PDF]  (698KBytes), [http://graphics.ewha.ac.kr/C2A/bibtex_c2a.txt BibTex]
@@ -25,12 +25,12 @@ University of North Carolina at Chapel Hill
  
  
 2. Source Code in [http://code.google.com/p/c2a-ewha C++][http://graphics.ewha.ac.kr/C2A/new.gif]
-
+<br><br>
 
 ==Abstract==
 
   We present a simple and fast algorithm to perform continuous collision detection between polygonal models undergoing rigid motion for interactive applications. Our approach can handle all triangulated models and makes no assumption about the underlying geometry and topology. The algorithm uses the notion of conservative advancement (CA), originally developed for convex polytopes. We extend this formulation to general models using swept sphere volume hierarchy and present a compact formulation to compute the motion bounds along with a novel controlling scheme. We have implemented the algorithm and highlight its performance on various benchmarks. In practice, our algorithm can perform continuous collision queries in few milli-seconds on models composed of tens of thousands of triangles.
-
+<br>
 ==Benchmarking Scenarios==
 
 ===1. Club vs Club (104.8K)===
@@ -61,7 +61,7 @@ University of North Carolina at Chapel Hill
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20dybunny.jpg]
 
    * Rigid Body Dynamics for Bunnies *Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) *
-
+<br>
 == RELATED LINKS ==
 ===Fast===
    http://graphics.ewha.ac.kr/FAST/
@@ -71,10 +71,8 @@ University of North Carolina at Chapel Hill
 
 ===PQP===
    http://www.cs.unc.edu/%7Egeom/SSV/index.html
-
-<td ALIGN='CENTER'>
-Copyright 2009 Computer Graphics Laboratory 
-
-Dept of Computer Science & Engineering 
-
-Ewha Womans University, Seoul, Korea </td>
+<font size = 1>
+<br><br><br><br>
+Copyright 2009 Computer Graphics Laboratory<br>
+Dept of Computer Science & Engineering<br>
+Ewha Womans University, Seoul, Korea
