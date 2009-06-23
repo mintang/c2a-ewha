@@ -41,7 +41,7 @@ In the figure below, the red, blue, and green objects denote the club model at i
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20Club.jpg]
 
 *Club vs Club*
-Download Video in WMV [http://graphics.ewha.ac.kr/C2A/figs/WM.gif] (0.7MBytes) 
+Download Video in WMV [http://graphics.ewha.ac.kr/C2A/Videos/club.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif] (0.7MBytes) 
 
 ===2. Hammer (1.7K) vs CAD Piece (2.6K)===
 A similar set up like the benchmark 1. 
@@ -52,7 +52,7 @@ A similar set up like the benchmark 1.
 
 *Hammer vs CAD Piece *
 
-Download Video in WMV  (0.4MBytes) 
+Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/hammer&cad.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.4MBytes) 
 
 ===3.Rigid Body Dynamics for Bunnies ===
 
@@ -64,7 +64,7 @@ Using the same benchmarking (*Rigid Body Dynamics for Bunnies*) setup as FAST: [
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20dybunny.jpg]
 
 *Rigid Body Dynamics for Bunnies *
-Download Video in WMV  (0.5MBytes) 
+Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) 
 
 == RELATED LINKS ==
 ===Fast===
@@ -75,3 +75,10 @@ Download Video in WMV  (0.5MBytes)
 
 ===PQP===
    http://www.cs.unc.edu/%7Egeom/SSV/index.html
+
+
+Copyright 2009 Computer Graphics Laboratory 
+
+Dept of Computer Science & Engineering 
+
+Ewha Womans University, Seoul, Korea 
