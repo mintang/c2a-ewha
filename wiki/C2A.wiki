@@ -32,7 +32,8 @@ University of North Carolina at Chapel Hill
 2. Source Code in [http://code.google.com/p/c2a-ewha C++][http://graphics.ewha.ac.kr/C2A/new.gif]
 <br><br>
 
-<div align="left">
+
+<p align="left">
 ==Abstract==
 
   We present a simple and fast algorithm to perform continuous collision detection between polygonal models undergoing rigid motion for interactive applications. Our approach can handle all triangulated models and makes no assumption about the underlying geometry and topology. The algorithm uses the notion of conservative advancement (CA), originally developed for convex polytopes. We extend this formulation to general models using swept sphere volume hierarchy and present a compact formulation to compute the motion bounds along with a novel controlling scheme. We have implemented the algorithm and highlight its performance on various benchmarks. In practice, our algorithm can perform continuous collision queries in few milli-seconds on models composed of tens of thousands of triangles.
