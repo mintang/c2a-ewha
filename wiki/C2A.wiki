@@ -76,7 +76,6 @@ Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http:/
 ===PQP===
    http://www.cs.unc.edu/%7Egeom/SSV/index.html
 
-`<hr>`
 <td ALIGN='CENTER'>
 Copyright 2009 Computer Graphics Laboratory 
 
