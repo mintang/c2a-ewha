@@ -34,37 +34,33 @@ University of North Carolina at Chapel Hill
 ==Benchmarking Scenarios==
 
 ===1. Club vs Club (104.8K)===
-In the figure below, the red, blue, and green objects denote the club model at initial, final and TOC configurations respectively. The TOC configuration is computed by our continuous collision detection algorithm after linearly interpolating the initial and final configurations. The yellow object shows the configuration of an obstacle. There are more than 200 simulation steps in the benchmark, and in all trials no collision-free situation exists. 
+  In the figure below, the red, blue, and green objects denote the club model at initial, final and TOC configurations respectively. The TOC configuration is computed by our continuous collision detection algorithm after linearly interpolating the initial and final configurations. The yellow object shows the configuration of an obstacle. There are more than 200 simulation steps in the benchmark, and in all trials no collision-free situation exists. 
 
 [http://graphics.ewha.ac.kr/C2A/figs/Club.jpg]
 
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20Club.jpg]
 
-*Club vs Club*
-Download Video in WMV [http://graphics.ewha.ac.kr/C2A/Videos/club.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif] (0.7MBytes) 
+    * Club vs Club* Download Video in WMV [http://graphics.ewha.ac.kr/C2A/Videos/club.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif] (0.7MBytes)*
 
 ===2. Hammer (1.7K) vs CAD Piece (2.6K)===
-A similar set up like the benchmark 1. 
+  A similar set up like the benchmark 1. 
 
 [http://graphics.ewha.ac.kr/C2A/figs/hammer.jpg]
 
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20hammer.jpg]
 
-*Hammer vs CAD Piece *
-
-Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/hammer&cad.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.4MBytes) 
+   * Hammer vs CAD Piece *  Download Video in WMV [http://graphics.ewha.ac.kr/C2A/Videos/hammer&cad.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.4MBytes) *
 
 ===3.Rigid Body Dynamics for Bunnies ===
 
-Using the same benchmarking (*Rigid Body Dynamics for Bunnies*) setup as FAST: [http://graphics.ewha.ac.kr/FAST/]
- In the figure, the TOC configurations are shown as green objects. In the following graph, "*" shows the simulation steps when the TOC should be computed.
+  Using the same benchmarking (*Rigid Body Dynamics for Bunnies*) setup as FAST: [http://graphics.ewha.ac.kr/FAST/]
+  In the figure, the TOC configurations are shown as green objects. In the following graph, "`*`" shows the simulation steps when the TOC should be computed.
 
 [http://graphics.ewha.ac.kr/C2A/figs/dybunny.jpg]
 
 [http://graphics.ewha.ac.kr/C2A/figs/timing%20of%20dybunny.jpg]
 
-*Rigid Body Dynamics for Bunnies *
-Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) 
+   * Rigid Body Dynamics for Bunnies *Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) *
 
 == RELATED LINKS ==
 ===Fast===
