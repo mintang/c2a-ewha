@@ -1,3 +1,4 @@
+Fixes issue C2A
 [http://graphics.ewha.ac.kr/C2A/figs/models.jpg]
 
 =C^2^A: Controlled Conservative Advancement for Continuous Collision Detection of Polygonal Models =
@@ -81,4 +82,4 @@ Copyright 2009 Computer Graphics Laboratory
 
 Dept of Computer Science & Engineering 
 
-Ewha Womans University, Seoul, Korea </td>`<hr>`
+Ewha Womans University, Seoul, Korea </td>
