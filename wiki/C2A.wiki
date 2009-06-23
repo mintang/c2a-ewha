@@ -1,7 +1,7 @@
 [http://graphics.ewha.ac.kr/C2A/figs/models.jpg]
 =C^2^A: Controlled Conservative Advancement for Continuous Collision Detection of Polygonal Models =
 <br><br>
-<font size = 5><font face = "Times New Roman">
+<font face = "Times New Roman"><font size = 3>
 ==Min Tang^1^,  Young J. Kim^1^ and Dinesh Manocha^2^==
 
 ^1^Department of Computer Science & Engineering
@@ -71,7 +71,7 @@ University of North Carolina at Chapel Hill
 
 ===PQP===
    http://www.cs.unc.edu/%7Egeom/SSV/index.html
-<font size = 1>
+<font size = 2>
 <br><br><br><br>
 Copyright 2009 Computer Graphics Laboratory<br>
 Dept of Computer Science & Engineering<br>
