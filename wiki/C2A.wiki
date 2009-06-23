@@ -1,3 +1,5 @@
+svn checkout https://PROJECTNAME.googlecode.com/svn/wiki/ PROJECTNAME-wiki --username USERNAME
+
 [http://graphics.ewha.ac.kr/C2A/figs/models.jpg]
 
 =C^2^A: Controlled Conservative Advancement for Continuous Collision Detection of Polygonal Models =
