@@ -77,7 +77,7 @@ University of North Carolina at Chapel Hill
 		<p align="left">Q: In C2A_Model class, we have the function AddTri (const PQP_REAL *p1, const PQP_REAL *p2, const PQP_REAL *p3, int i, int i1, int i2, int i3). The AddTri function is overloaded. You can see our demo for correctly using.</p>
 
 		 
-		<p align="left">A: C2A_QueryContact crashes sometime. The reason is not clear yet. Fortunately I do not need to compute contact point, only contact time is 		needed.</p>		
+		<p align="left">A: C2A_QueryContactaa crashes sometime. The reason is not clear yet. Fortunately I do not need to compute contact point, only contact time is 		needed.</p>		
                 <p align="left">Q: If you don't need contact points, you can comment C2A_QueryContact in C2A_Solve function, you will save much timing.</p>
 
  
