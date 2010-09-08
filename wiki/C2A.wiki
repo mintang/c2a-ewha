@@ -72,8 +72,8 @@ University of North Carolina at Chapel Hill
 	
 == FAQ ==
  
-<p align="left">A: C2A_Model::AddTri(const PQP_REAL \*p1, const PQP_REAL \*p2, const PQP_REAL \*p3, int id) seems have problems. It does not set the index member in C2A_Tri, which is used later.</p>
-<p align="left">Q: In C2A_Model class, we have the function AddTri (const PQP_REAL *p1, const PQP_REAL *p2, const PQP_REAL *p3, int i, int i1, int i2, int i3). The AddTri function is overloaded. You can see our demo for correctly using.</p>
+<p align="left">A: C2A_Model::AddTri`(`const PQP_REAL `*`p1, const PQP_REAL `*`p2, const PQP_REAL `*`p3, int id) seems have problems. It does not set the index member in C2A_Tri, which is used later.</p>
+<p align="left">Q: In C2A_Model class, we have the function AddTri `(`const PQP_REAL `*`p1, const PQP_REAL `*`p2, const PQP_REAL `*`p3, int i, int i1, int i2, int i3`)`. The AddTri function is overloaded. You can see our demo for correctly using.</p>
 
 		 
 <p align="left">A: C2A_QueryContact crashes sometime. The reason is not clear yet. Fortunately I do not need to compute contact point, only contact time is needed.</p>		
