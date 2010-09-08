@@ -83,9 +83,7 @@ University of North Carolina at Chapel Hill
 
  
 		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">A: 
-		The enum name in enum C2A_Result{OK, TOCFound, CollisionFound, 
-		CollisionFree, CollisionNotFound}; seems to be somewhat confusing. Like 
-		CollisionNotFound is in fact colliding! </span></p>
+		The enum name in enum C2A_Result{OK, TOCFound, CollisionFound,		CollisionFree, CollisionNotFound}; seems to be somewhat confusing. Like 		CollisionNotFound is in fact colliding! </span></p>
 		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">
 		Q:When two objects are intersected at beginning, C2A can not be used to 
 		find out collision in the case. The CollisionNotFound is returned, 
