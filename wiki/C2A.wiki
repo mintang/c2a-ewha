@@ -69,6 +69,38 @@ University of North Carolina at Chapel Hill
 
    * Rigid Body Dynamics for Bunnies *Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) *
 <br>
+	<div>
+<HR color="#3366CC"> 
+== FAQ ==
+ 
+		<p align="left">A:<span style="font-size: 12.0pt; font-family: Verdana"> 
+		C2A_Model::AddTri(const PQP_REAL *p1, const PQP_REAL *p2, const PQP_REAL *p3, int id) seems have problems. It does not set the index_ member in C2A_Tri, which is used later.</span></p>
+		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">Q: 
+		In C2A_Model class, we have the function AddTri(const PQP_REAL *p1, const PQP_REAL *p2, const PQP_REAL *p3, int i, int i1, int i2, int i3). The AddTri function is overloaded. You can see our demo for correctly using.</span></p>
+
+		<p align="left">A:<span style="font-size: 12.0pt; font-family: Verdana"> 
+		C2A_QueryContact crashes sometime. The reason is not clear yet. 
+		Fortunately I do not need to compute contact point, only contact time is 
+		needed.</span></p>
+		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">Q: 
+		If you don't need contact points, you can comment C2A_QueryContact 
+		in C2A_Solve function, you will save much timing.</span></p>
+
+ 
+		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">A: 
+		The enum name in enum C2A_Result{OK, TOCFound, CollisionFound, 
+		CollisionFree, CollisionNotFound}; seems to be somewhat confusing. Like 
+		CollisionNotFound is in fact colliding! </span></p>
+		<p align="left"><span style="font-size: 12.0pt; font-family: Verdana">
+		Q:When two objects are intersected at beginning, C2A can not be used to 
+		find out collision in the case. The CollisionNotFound is returned, 
+		which means collision is happened at beginning, and at same time a 
+		message "collision at time 0" will be printf in the screen. As shown in 
+		demo, we use the bool value collisionfree in result class C2A_Result to 
+		represent in-collision or collision-free. Yes, you are right. The name 
+		of labels is somewhat confusing.
+	
+<HR> 
 == RELATED LINKS ==
 ===Fast===
    http://graphics.ewha.ac.kr/FAST/
