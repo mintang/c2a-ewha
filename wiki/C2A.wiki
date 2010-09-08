@@ -80,8 +80,8 @@ University of North Carolina at Chapel Hill
 <p align="left">Q: If you don't need contact points, you can comment C2A_QueryContact in C2A_Solve function, you will save much timing.</p>
 
  
-<p align="left">A: The enum name in enum C2A_Result{OK, TOCFound, CollisionFound, CollisionFree, CollisionNotFound}; seems to be somewhat confusing. Like CollisionNotFound is in fact colliding! </p>
-<p align="left">Q: When two objects are intersected at beginning, C2A can not be used to 	find out collision in the case. The CollisionNotFound is returned, which means collision is happened at beginning, and at same time a message "collision at time 0" will be printf in the screen. As shown in demo, we use the bool value collisionfree in result class C2A_Result to represent in-collision or collision-free. Yes, you are right. The name of labels is somewhat confusing.</p>
+<p align="left">A: The enum name in enum C2A_Result`{`OK, TOCFound, CollisionFound, CollisionFree, CollisionNotFound`}`; seems to be somewhat confusing. Like CollisionNotFound is in fact colliding! </p>
+<p align="left">Q: When two objects are intersected at beginning, C2A can not be used to 	find out collision in the case. The CollisionNotFound is returned, which means collision is happened at beginning, and at same time a message "collision at time 0" will be printf in the screen. As shown in demo, we use the bool value collisionfree in result class C2A_Result to represent in-collision or collision-free. Yes, you are right. The name of labels is somewhat confuse.</p>
 	
 
 == RELATED LINKS ==
