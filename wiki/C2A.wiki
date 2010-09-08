@@ -95,7 +95,7 @@ University of North Carolina at Chapel Hill
 		represent in-collision or collision-free. Yes, you are right. The name 
 		of labels is somewhat confusing.
 	
-<HR> 
+
 == RELATED LINKS ==
 ===Fast===
    http://graphics.ewha.ac.kr/FAST/
