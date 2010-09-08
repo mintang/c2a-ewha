@@ -69,8 +69,7 @@ University of North Carolina at Chapel Hill
 
    * Rigid Body Dynamics for Bunnies *Download Video in WMV  [http://graphics.ewha.ac.kr/C2A/Videos/dybunny.wmv http://graphics.ewha.ac.kr/C2A/figs/WM.gif](0.5MBytes) *
 <br>
-	<div>
-<HR color="#3366CC"> 
+	
 == FAQ ==
  
 		<p align="left">A: C2A_Model::AddTri(const PQP_REAL *p1, const PQP_REAL *p2, const PQP_REAL *p3, int id) seems have problems. It does not set the index_ member in C2A_Tri, which is used later.</p>
